@@ -130,3 +130,5 @@ dmypy.json
 
 #Macspecific
 .DS_Store
+
+.csv
